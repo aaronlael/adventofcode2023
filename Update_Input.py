@@ -3,8 +3,8 @@ import env
 import json
 import os
 
-day = "Day1"
-new_inp = """data"""
+day = "Day2"
+new_inp = """"""
 
 
 S3 = boto3.client(
