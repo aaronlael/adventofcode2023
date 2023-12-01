@@ -30,6 +30,8 @@ for i in inp:
     v = [x for x in list(i) if x in '1234567890']
     vals += int(v[0] + v[-1])
 print(vals)
+#one liner for funsies
+print(sum([int(z[0]+z[-1]) for z in [[y for y in list(x) if y in '1234567890'] for x in INP.split("\n")]]))
 
 
 #part2
