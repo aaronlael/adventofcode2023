@@ -47,7 +47,7 @@ number_wang = {
     'eight' : 8,
     'nine' : 9,
     }
-
+'oneight'
 
 val = 0
 pattern = r'(?=(one|two|three|four|five|six|seven|eight|nine|[1234567890]))'
