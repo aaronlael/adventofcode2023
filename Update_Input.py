@@ -3,7 +3,7 @@ import env
 import json
 import os
 
-day = "Day7"
+day = "Day9"
 new_inp = """"""
 
 
